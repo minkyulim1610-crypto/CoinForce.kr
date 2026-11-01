@@ -1,4 +1,4 @@
-const PROXY = 'https://coinalyze-proxy.minkyulim1610.workers.dev';
+const PROXY = 'https://coinalyze-proxy.coinforce.workers.dev';
 const BYBIT_CODE = '6';
 
 const COINALYZE_INTERVAL: Record<string, string> = {
